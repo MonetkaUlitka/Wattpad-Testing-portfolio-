@@ -1,3 +1,17 @@
+# Project: Wattpad 
+
+**Date:** 01.10.25
+
+**Build:** latest
+
+**Tester:** Me
+
+**Environment:** 
+Windows 11, Version 22H2, Google Chrome 140.0.7339.208, FireFox 143.0.1
+iphone 12 Pro Max, IOS 18.6.2
+
+--- 
+
 ### БАЗОВЫЙ ФУНКЦИОНАЛ: 
 - [ ] Открытие книги из поиска/рекомендаций > страница книги
 - [ ] Открытие книги из библиотеки > страница книги
