@@ -6,7 +6,7 @@
 
 **Tester:** Me
 
-**Environment:** 
+**Environment:** iphone 12 Pro Max, IOS 18.6.2
 
 ---
 
