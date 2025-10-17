@@ -1,7 +1,5 @@
 # Project: Wattpad (Mobile)
 
-**Title:** Чек-лист проверки формы регистрации
-
 **Date:** 05.10.25
 
 **Build:** latest
