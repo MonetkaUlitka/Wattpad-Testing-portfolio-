@@ -1,4 +1,4 @@
-# Project: Wattpad (Web)
+# Project: Регистрация в Wattpad (Web)
 
 **Date:** 01.10.25
 
