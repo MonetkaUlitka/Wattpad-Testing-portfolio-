@@ -1,4 +1,6 @@
-# Project: Регистрация в Wattpad (Web)
+# Project: Wattpad (Web)
+
+**Title:** Чек-лист проверки формы регистрации
 
 **Date:** 01.10.25
 
