@@ -1,7 +1,5 @@
 # Project: Wattpad 
 
-**Title:** Чек-лист проверки фильтрации
-
 **Date:** 05.10.25
 
 **Build:** latest
