@@ -1,7 +1,5 @@
 # Project: Wattpad 
 
-**Title:** Чек-лист: Профиль пользователя 
-
 **Date:** 09.10.25
 
 **Build:** latest
