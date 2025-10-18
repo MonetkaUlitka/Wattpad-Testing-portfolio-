@@ -1,3 +1,16 @@
+# Project: Wattpad 
+
+**Date:** 17.10.25
+
+**Build:** latest
+
+**Tester:** Me
+
+**Environment:** 
+Windows 11, Version 22H2, Google Chrome 140.0.7339.208, FireFox 143.0.1
+iphone 12 Pro Max, IOS 18.6.2
+
+---
 
 **Создание через главную страницу:**
 - [ ] Кнопка "write"  > открывается профиль истории  (создать историю, мои истории, литературный конкурс)
