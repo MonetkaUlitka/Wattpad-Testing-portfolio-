@@ -11,7 +11,9 @@
 **Environment:** 
 
 * OS: Windows 11, Version 22H2; 
-* Browsers: 
+* PC
+    * OS: Windows 11, Version 22H2; 
+    * Browsers: 
         * Google Chrome 140.0.7339.208;
         * FireFox 143.0.1
 * Mobile
