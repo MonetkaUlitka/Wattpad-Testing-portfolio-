@@ -1,13 +1,18 @@
 # Project: Wattpad (Mobile)
 
+**Title:** Регистрация и авторизация в мобильной версии 
+
 **Date:** 05.10.25
 
 **Build:** latest
 
 **Tester:** Me
 
-**Environment:** iphone 12 Pro Max, IOS 18.6.2
-
+**Environment:** 
+* Mobile
+    * Device: iPhone 12 Pro Max
+    * OS: iOS 18.6.2
+    * Application Version: 
 ---
 
 ### Базовые проверки:
