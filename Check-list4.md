@@ -1,5 +1,7 @@
 # Project: Wattpad 
 
+**Title:** Проверка функционала чтения книг 
+
 **Date:** 09.10.25
 
 **Build:** latest
@@ -7,8 +9,15 @@
 **Tester:** Me
 
 **Environment:** 
-Windows 11, Version 22H2, Google Chrome 140.0.7339.208, FireFox 143.0.1
-iphone 12 Pro Max, IOS 18.6.2
+* PC
+    * OS: Windows 11, Version 22H2; 
+    * Browsers: 
+        * Google Chrome 140.0.7339.208;
+        * FireFox 143.0.1
+* Mobile
+    * Device: iPhone 12 Pro Max
+    * OS: iOS 18.6.2
+    * Application Version: 
 
 --- 
 
