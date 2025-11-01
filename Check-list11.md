@@ -15,7 +15,7 @@
 * Mobile
     * Device: iPhone 12 Pro Max
     * OS: iOS 18.6.2
-    * Application Version:
+    * Application Version: 11.18.0
 
 **Доп:**
 * Планшет: iPad pro/iPad mini 
