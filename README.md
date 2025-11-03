@@ -48,4 +48,7 @@
 **[Посмотреть тест-кейс](Test_suit3.md)**
 
 ### Баг-репорты:
-*   **[BUG-01: Medium]** [Нерелевантные результаты поиска] (https://github.com/MonetkaUlitka/Wattpad-Testing-portfolio-/issues/1)
+*   **[BUG-01: High]** [Нерелевантные результаты поиска] (https://github.com/MonetkaUlitka/Wattpad-Testing-portfolio-/issues/1)
+*   **[BUG-02: Medium]** [Ошибка отображения истории после переноса в список] (https://github.com/MonetkaUlitka/Wattpad-Testing-portfolio-/issues/2)
+*   **[BUG-03: High]** [Битая ссылка] (https://github.com/MonetkaUlitka/Wattpad-Testing-portfolio-/issues/3)
+*   **[BUG-04: low]** [Орфографическая ошибка] (https://github.com/MonetkaUlitka/Wattpad-Testing-portfolio-/issues/4)
