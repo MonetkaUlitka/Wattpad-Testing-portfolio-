@@ -52,3 +52,5 @@
 *   **[BUG-02: Medium]** [Ошибка отображения истории после переноса в список] (https://github.com/MonetkaUlitka/Wattpad-Testing-portfolio-/issues/2)
 *   **[BUG-03: High]** [Битая ссылка] (https://github.com/MonetkaUlitka/Wattpad-Testing-portfolio-/issues/3)
 *   **[BUG-04: low]** [Орфографическая ошибка] (https://github.com/MonetkaUlitka/Wattpad-Testing-portfolio-/issues/4)
+*   **[BUG-05: high]** [Ошибка 500 при отправке сообщения] (https://github.com/MonetkaUlitka/Wattpad-Testing-portfolio-/issues/5)
+
