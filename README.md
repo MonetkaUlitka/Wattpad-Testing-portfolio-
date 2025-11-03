@@ -1,4 +1,4 @@
-# Wattpad-Testing-portfolio-
+# Wattpad-Testing-portfolio
 Тест-план: Тестирование веб и мобильной версии Wattpad: 
 **[Посмотреть тест-план](Test_Plan.md)**
 
