@@ -53,4 +53,5 @@
 *   **[BUG-03: High]** [Битая ссылка] (https://github.com/MonetkaUlitka/Wattpad-Testing-portfolio-/issues/3)
 *   **[BUG-04: low]** [Орфографическая ошибка] (https://github.com/MonetkaUlitka/Wattpad-Testing-portfolio-/issues/4)
 *   **[BUG-05: high]** [Ошибка 500 при отправке сообщения] (https://github.com/MonetkaUlitka/Wattpad-Testing-portfolio-/issues/5)
-
+*   **[BUG-06: high]** [Некорректная ссылка, ошибки React в консоли] (https://github.com/MonetkaUlitka/Wattpad-Testing-portfolio-/issues/6)
+*   **[BUG-07: low]** [Отсутсвие hover эффектов на главной странице] (https://github.com/MonetkaUlitka/Wattpad-Testing-portfolio-/issues/7)
